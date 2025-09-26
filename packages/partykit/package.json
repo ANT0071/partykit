@@ -46,7 +46,7 @@
   "dependencies": {
     "@cloudflare/workers-types": "4.20240718.0",
     "clipboardy": "4.0.0",
-    "esbuild": "0.21.5",
+    "esbuild": "0.25.0",
     "miniflare": "3.20240718.0",
     "ts-dedent": "^2.2.0",
     "unenv": "2.0.0-rc.0",
@@ -94,7 +94,7 @@
     "react-error-boundary": "^4.0.13",
     "signal-exit": "^4.1.0",
     "source-map": "^0.7.4",
-    "undici": "^6.21.2",
+    "undici": "^7.16.0",
     "update-notifier": "^7.0.0",
     "which-pm-runs": "^1.1.0",
     "ws": "^8.17.0",
