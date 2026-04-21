@@ -56,7 +56,7 @@
     "fsevents": "2.3.3"
   },
   "devDependencies": {
-    "@clerk/clerk-js": "4.70.5",
+    "@clerk/clerk-js": "5.89.0",
     "@iarna/toml": "^2.2.5",
     "@types/gradient-string": "^1.1.6",
     "@types/is-ci": "^3.0.4",
@@ -94,7 +94,7 @@
     "react-error-boundary": "^4.0.13",
     "signal-exit": "^4.1.0",
     "source-map": "^0.7.4",
-    "undici": "^6.21.2",
+    "undici": "^8.1.0",
     "update-notifier": "^7.0.0",
     "which-pm-runs": "^1.1.0",
     "ws": "^8.17.0",
